@@ -1,0 +1,28 @@
+objectName: RegularBlock
+objectid: 0
+objectSize: 64 64
+SpriteSize: 64 64
+objectSS: 1
+tiletexturelocation: 0 1
+objectCharMovable: 1
+ObjectPushableSpeed: 2
+Liftable: 1
+objectName: ThinBlock
+objectid: 1
+objectSize: 64 64
+SpriteSize: 64 4
+objectSS: 0
+tiletexturelocation: 4 0
+objectCharMovable: 1
+ObjectPushableSpeed: 2
+Liftable: 1
+objectName: FallingBlock
+objectid: 2
+objectSize: 64 64
+SpriteSize: 64 35
+objectSS: 1
+tiletexturelocation: 0 2
+objectCharMovable: 1
+ObjectPushableSpeed: 2
+Liftable: 1
+endObjectTypes
